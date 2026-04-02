@@ -1,1 +1,6 @@
 # Startup_Funding_Data-Analytics
+## End-to-end SQL analytics project transforming raw startup funding data into business insights.
+This project analyzes Indian startup funding data using SQL Server and T-SQL, covering city-wise trends, industry breakdowns, YoY growth, funnel analysis (Seed → Series A), cohort tracking, RFM segmentation, and a custom scoring model (Funding × 0.4) + (Deals × 0.3) − (Volatility × 0.3) to rank industries by performance and risk.
+ The data was cleaned and standardized before analysis — handling city name inconsistencies, invalid values, and funding stage normalization. Key findings show Bengaluru leading in deal volume, with E-commerce and FinTech dominating capital raised; high-volatility sectors consistently score lower, signaling risk for investors.
+ 
+ From a business lens, these insights help investors spot high-potential sectors early, enable marketers to align campaigns with where funding and growth momentum actually sits, and give analysts a data-backed view of how the Indian startup market has shifted over time.
